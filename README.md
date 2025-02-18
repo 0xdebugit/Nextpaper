@@ -6,6 +6,8 @@ Welcome to the Form Builder for JSON Schema! This tool allows you to quickly des
 
 [Demo link](https://nextpaper.co)
 
+![image](https://github.com/user-attachments/assets/0aa60d5f-f60c-4f8d-8ab4-007bd1670403)
+
 ### Purpose
 
 It's currently in development, and we are looking for feedback to improve it. Your input will help us enhance the tool’s functionality and user experience. Please feel free to report any issues, suggestions, or bugs by opening an issue on this repository.
