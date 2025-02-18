@@ -4,7 +4,7 @@ Welcome to the Form Builder for JSON Schema! This tool allows you to quickly des
 
 ### Demo
 
-[Demo link](https://nextpaper.co)
+[Demo link](https://dub.sh/nextpaper)
 
 ![image](https://github.com/user-attachments/assets/0aa60d5f-f60c-4f8d-8ab4-007bd1670403)
 
