@@ -1,3 +1,14 @@
+### Changelog
+
+#### **v1.1.0** (February 2025)
+- **Realtime Form Preview**: Added a new form tab that allows users to preview their forms in real-time.
+- **JSON Schema Import**: Users can now import JSON schema files to auto-generate forms, streamlining the process of working with existing schemas.
+  
+#### **v1.0.0** (January 2025)
+- Initial release with drag-and-drop form builder and automatic JSON and UI schema generation.
+
+---
+
 ## **Nextpaper**
 
 Welcome to the Form Builder for JSON Schema! This tool allows you to quickly design forms that generate both JSON schema and UI schema.
@@ -18,6 +29,8 @@ It's currently in development, and we are looking for feedback to improve it. Yo
 * **Instant Schema Generation**: Generate both JSON schema and UI schema with every form update.
 * **Customizable Components**: Add and customize components such as text fields, checkboxes, radio buttons, dropdowns, and more.
 * **Developer Friendly**: Generate clean JSON and UI schema that can be easily integrated into applications.
+* **Realtime Form Preview**: A new form tab allows users to preview their forms in real-time, making it easier to see changes as they are made.
+* **JSON Schema Import**: You can now import existing JSON schema files to automatically generate forms, saving time and effort when working with pre-defined schemas.
 
 ## Providing Feedback
 
@@ -39,3 +52,7 @@ This repository is currently **not open-sourced** for general contributions. We 
 This project is **not open-sourced** yet and is provided for feedback purposes only. More details will be available in the future.
 
 Happy form building! 🎉
+
+---
+
+Now, users can see the recent updates and new features in the **Changelog** section. Let me know if you need anything else!
