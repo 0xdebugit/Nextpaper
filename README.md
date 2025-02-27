@@ -52,7 +52,3 @@ This repository is currently **not open-sourced** for general contributions. We 
 This project is **not open-sourced** yet and is provided for feedback purposes only. More details will be available in the future.
 
 Happy form building! 🎉
-
----
-
-Now, users can see the recent updates and new features in the **Changelog** section. Let me know if you need anything else!
