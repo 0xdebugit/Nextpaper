@@ -1,5 +1,9 @@
 ### Changelog
 
+#### **v1.2.0** (March 2025)
+- **Realtime Form Preview**: Improved Form Validation.
+- **JSON Schema Import**: Added support for all fields.
+
 #### **v1.1.0** (February 2025)
 - **Realtime Form Preview**: Added a new form tab that allows users to preview their forms in real-time.
 - **JSON Schema Import**: Users can now import JSON schema files to auto-generate forms, streamlining the process of working with existing schemas.
