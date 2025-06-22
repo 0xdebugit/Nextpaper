@@ -1,5 +1,16 @@
 ### Changelog
 
+
+#### **v2.0.0** (June 2025)
+- **Support for dynamic lists & objects**  
+  Now handles complex data structures with ease, including nested lists and objects.
+- **Enhanced UI**  
+  Improved layout, updated styling, and more intuitive user interactions.
+- **Basic support for UI Schema**  
+  Compatible with RJSF & JSONForms
+- **Guest signup**  
+  Users can now sign up as guests and save their JSON Schemas temporarily for a limited time.
+
 #### **v1.2.0** (March 2025)
 - **Realtime Form Preview**: Improved Form Validation.
 - **JSON Schema Import**: Added support for all fields.
